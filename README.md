@@ -1,0 +1,1 @@
+Programa que indica si un número aleatorio entre 0 y 1 es superior a 0.5 o no.
